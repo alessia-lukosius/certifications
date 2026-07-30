@@ -1,6 +1,6 @@
-# Certifications
+## 🏅 Certifications
 
-Welcome! यहाँ I share my certifications and badges:
+Hello! This page contains the certifications and badges I’ve earned:
 
 - **Google Cloud Associate Engineer (GCP)**
 - **Azure Data Fundamentals (DP-900)**
